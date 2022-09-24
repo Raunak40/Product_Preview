@@ -94,7 +94,7 @@ p{
     flex-shrink: 0;
     width: 600px;
     height: 450px;
-    margin: 185px auto;
+    margin: 185px auto 20px;
   }
   .main-image{
     background-image: url("images/image-product-desktop.jpg");

@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](final-designs/Mobile-preview.png)
-![](final-designs/Desktop-preview.png)
+![](final-designs/Mobile-preview.png) ![](final-designs/Desktop-preview.png)
 
 ### Links
 
@@ -59,5 +58,5 @@ There are so many things which I have to continue learning like responsiveness, 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Raunak Raj](https://www.your-site.com)
 - Frontend Mentor - [@Raunak40](https://www.frontendmentor.io/profile/Raunak40)
