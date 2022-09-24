@@ -1,0 +1,170 @@
+@media only screen and (max-width: 600px) {
+body{
+  background-color: hsl(30, 38%, 92%);
+  margin: 0;
+  padding: 0;
+
+}
+.main{
+  width: 350px;
+  height: 600px;
+  margin: 185px auto 20px;
+}
+.main-image{
+  background-image: url("images/image-product-mobile.jpg");
+  background-size: cover;
+  width: 350px;
+  height: 250px;
+  border-radius: 10px 10px 0 0;
+}
+.main-content{
+  background-color: white;
+  padding: 25px;
+  height: 300px;
+  width: 300px;
+  border-radius: 0 0 10px 10px ;
+}
+h1{
+  font-family: 'Fraunces', serif;
+  margin: 13px 0;
+  line-height: 33px;
+}
+.main-price, .main-discount-price{
+  display: inline;
+}
+.main-price{
+  margin-left: 20px;
+  font-size: 12px;
+}
+.main-discount-price{
+  color: #32775d;
+}
+
+.sub-heading{
+  margin-top: 0;
+  letter-spacing: 4px;
+  font-size: 12px;
+}
+
+p{
+  color: hsl(228, 12%, 48%);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+
+.btn{
+  background-color: #32775d;
+  width: 300px;
+  color: white;
+  border-radius: 10px;
+  padding: 13px 0;
+  font-size: 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  margin: 15px 0;
+  border: none;
+}
+.btn:hover{
+  cursor: pointer;
+  background-color: #1c3f32;
+} 
+.inner-content{
+  margin-bottom: 15px;
+  font-size: 14px;
+  line-height: 21px;
+  word-spacing: 1px;
+}
+.cart-icon{
+  padding-right: 7px;
+}
+}
+
+@media only screen and (min-width: 600px) {
+
+  body{
+    background-color: hsl(30, 38%, 92%);
+    margin: 0;
+    padding: 0;
+  
+  }
+  .main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    width: 600px;
+    height: 450px;
+    margin: 185px auto;
+  }
+  .main-image{
+    background-image: url("images/image-product-desktop.jpg");
+    background-size: cover;
+    width:300px;
+    height: 450px;
+    border-radius: 10px 0 0 10px;
+  
+  }
+  .main-content{
+    background-color: white;
+    padding: 34px;
+    height: 382px;
+    width: 232px;
+    border-radius: 0 10px 10px 0;
+  }
+  h1{
+    font-family: 'Fraunces', serif;
+    margin: 20px 0;
+    line-height: 33px;
+  }
+  .main-price, .main-discount-price{
+    display: inline;
+  }
+  .main-price{
+    margin-left: 20px;
+    font-size: 12px;
+  }
+  .main-discount-price{
+    color: #32775d;
+  }
+  
+  .sub-heading{
+    margin-top: 0;
+    letter-spacing: 4px;
+    font-size: 12px;
+  }
+  
+  p{
+    color: hsl(228, 12%, 48%);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+  }
+  
+  .btn{
+    background-color: #32775d;
+    width: 232px;
+    color: white;
+    border-radius: 10px;
+    padding: 13px 0;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin: 30px 0;
+    border: none;
+  }
+  .btn:hover{
+    cursor: pointer;
+    background-color: #1c3f32;
+  }
+  .inner-content{
+    margin-bottom: 28px;
+    font-size: 14px;
+    line-height: 21px;
+  }
+  .cart-icon{
+    padding-right: 7px;
+  }
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
