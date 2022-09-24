@@ -26,12 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](final-designs/Mobile-preview.png) ![](final-designs/Desktop-preview.png)
+![](final-designs/Mobile-preview.png)
+![](final-designs/Desktop-preview.png)
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Raunak40/Product_Preview)
+- Live Site URL: [shimmering-squirrel-76974c](https://shimmering-squirrel-76974c.netlify.app)
 
 ## My process
 
@@ -58,5 +59,5 @@ There are so many things which I have to continue learning like responsiveness, 
 
 ## Author
 
-- Website - [Raunak Raj](https://www.your-site.com)
+- Website - [Raunak Raj](https://shimmering-squirrel-76974c.netlify.app)
 - Frontend Mentor - [@Raunak40](https://www.frontendmentor.io/profile/Raunak40)
